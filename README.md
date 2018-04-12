@@ -1,5 +1,5 @@
 # swish-slack
-A Slack command for Swish :money_with_wings: running as [Cloud Functions](https://cloud.google.com/functions/).
+A [Slack](https://slack.com/) command for [Swish](https://developer.getswish.se/) running as [Cloud Functions](https://cloud.google.com/functions/).
 
 > /swish 07300000000 85 Thanks for lunch!
 
